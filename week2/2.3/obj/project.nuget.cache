@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0j9qMUSInAq/LekvCN8hJDhwAoEblIErKl2dTukUgyqx+2ydfAIeyqZJIWSR0YSWu3vpby8z5XzrgfSP0Xsww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\OOP\\week2\\2.3\\2.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

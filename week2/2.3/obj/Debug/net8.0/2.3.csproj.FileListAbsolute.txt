@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\OOP\week2\2.3\bin\Debug\net8.0\2.3.exe
+C:\Users\Admin\Desktop\OOP\week2\2.3\bin\Debug\net8.0\2.3.deps.json
+C:\Users\Admin\Desktop\OOP\week2\2.3\bin\Debug\net8.0\2.3.runtimeconfig.json
+C:\Users\Admin\Desktop\OOP\week2\2.3\bin\Debug\net8.0\2.3.dll
+C:\Users\Admin\Desktop\OOP\week2\2.3\bin\Debug\net8.0\2.3.pdb
+C:\Users\Admin\Desktop\OOP\week2\2.3\obj\Debug\net8.0\2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOP\week2\2.3\obj\Debug\net8.0\2.3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOP\week2\2.3\obj\Debug\net8.0\2.3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OOP\week2\2.3\obj\Debug\net8.0\2.3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP\week2\2.3\obj\Debug\net8.0\2.3.dll
+C:\Users\Admin\Desktop\OOP\week2\2.3\obj\Debug\net8.0\refint\2.3.dll
+C:\Users\Admin\Desktop\OOP\week2\2.3\obj\Debug\net8.0\2.3.pdb
+C:\Users\Admin\Desktop\OOP\week2\2.3\obj\Debug\net8.0\2.3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\OOP\week2\2.3\obj\Debug\net8.0\ref\2.3.dll
