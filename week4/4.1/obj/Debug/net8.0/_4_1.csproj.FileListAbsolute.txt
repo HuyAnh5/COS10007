@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\OOP\week4\4.1\bin\Debug\net8.0\_4_1.exe
+C:\Users\Admin\Desktop\OOP\week4\4.1\bin\Debug\net8.0\_4_1.deps.json
+C:\Users\Admin\Desktop\OOP\week4\4.1\bin\Debug\net8.0\_4_1.runtimeconfig.json
+C:\Users\Admin\Desktop\OOP\week4\4.1\bin\Debug\net8.0\_4_1.dll
+C:\Users\Admin\Desktop\OOP\week4\4.1\bin\Debug\net8.0\_4_1.pdb
+C:\Users\Admin\Desktop\OOP\week4\4.1\obj\Debug\net8.0\_4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOP\week4\4.1\obj\Debug\net8.0\_4_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOP\week4\4.1\obj\Debug\net8.0\_4_1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OOP\week4\4.1\obj\Debug\net8.0\_4_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP\week4\4.1\obj\Debug\net8.0\_4_1.dll
+C:\Users\Admin\Desktop\OOP\week4\4.1\obj\Debug\net8.0\refint\_4_1.dll
+C:\Users\Admin\Desktop\OOP\week4\4.1\obj\Debug\net8.0\_4_1.pdb
+C:\Users\Admin\Desktop\OOP\week4\4.1\obj\Debug\net8.0\_4_1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\OOP\week4\4.1\obj\Debug\net8.0\ref\_4_1.dll

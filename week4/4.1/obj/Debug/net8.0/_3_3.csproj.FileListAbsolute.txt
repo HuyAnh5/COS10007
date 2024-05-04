@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\OOP\week3\3.3\bin\Debug\net8.0\_3_3.exe
+C:\Users\Admin\Desktop\OOP\week3\3.3\bin\Debug\net8.0\_3_3.deps.json
+C:\Users\Admin\Desktop\OOP\week3\3.3\bin\Debug\net8.0\_3_3.runtimeconfig.json
+C:\Users\Admin\Desktop\OOP\week3\3.3\bin\Debug\net8.0\_3_3.dll
+C:\Users\Admin\Desktop\OOP\week3\3.3\bin\Debug\net8.0\_3_3.pdb
+C:\Users\Admin\Desktop\OOP\week3\3.3\obj\Debug\net8.0\_3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOP\week3\3.3\obj\Debug\net8.0\_3_3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOP\week3\3.3\obj\Debug\net8.0\_3_3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OOP\week3\3.3\obj\Debug\net8.0\_3_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP\week3\3.3\obj\Debug\net8.0\_3_3.dll
+C:\Users\Admin\Desktop\OOP\week3\3.3\obj\Debug\net8.0\refint\_3_3.dll
+C:\Users\Admin\Desktop\OOP\week3\3.3\obj\Debug\net8.0\_3_3.pdb
+C:\Users\Admin\Desktop\OOP\week3\3.3\obj\Debug\net8.0\_3_3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\OOP\week3\3.3\obj\Debug\net8.0\ref\_3_3.dll
