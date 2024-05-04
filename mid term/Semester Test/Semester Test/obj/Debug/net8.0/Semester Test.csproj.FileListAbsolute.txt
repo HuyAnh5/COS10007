@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\obj\Debug\net8.0\Semester Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\obj\Debug\net8.0\Semester Test.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\obj\Debug\net8.0\Semester Test.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\obj\Debug\net8.0\Semester Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\bin\Debug\net8.0\Semester Test.exe
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\bin\Debug\net8.0\Semester Test.deps.json
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\bin\Debug\net8.0\Semester Test.runtimeconfig.json
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\bin\Debug\net8.0\Semester Test.dll
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\bin\Debug\net8.0\Semester Test.pdb
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\obj\Debug\net8.0\Semester Test.dll
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\obj\Debug\net8.0\refint\Semester Test.dll
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\obj\Debug\net8.0\Semester Test.pdb
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\obj\Debug\net8.0\Semester Test.genruntimeconfig.cache
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\obj\Debug\net8.0\ref\Semester Test.dll
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\bin\Debug\net8.0\Semester Test.exe
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\bin\Debug\net8.0\Semester Test.deps.json
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\bin\Debug\net8.0\Semester Test.runtimeconfig.json
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\bin\Debug\net8.0\Semester Test.dll
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\bin\Debug\net8.0\Semester Test.pdb
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\obj\Debug\net8.0\Semester Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\obj\Debug\net8.0\Semester Test.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\obj\Debug\net8.0\Semester Test.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\obj\Debug\net8.0\Semester Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\obj\Debug\net8.0\Semester Test.dll
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\obj\Debug\net8.0\refint\Semester Test.dll
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\obj\Debug\net8.0\Semester Test.pdb
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\obj\Debug\net8.0\Semester Test.genruntimeconfig.cache
+C:\Users\Admin\Desktop\OOP\mid term\Semester Test\Semester Test\obj\Debug\net8.0\ref\Semester Test.dll
